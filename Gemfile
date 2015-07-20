@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-ruby '2.2.2'
 gem 'rails', '4.2.3'
 gem 'sqlite3'
 gem 'sass-rails', '~> 5.0'
@@ -20,3 +19,4 @@ group :development do
   gem 'quiet_assets'
   gem 'rails_layout'
 end
+gem 'impressionist'
